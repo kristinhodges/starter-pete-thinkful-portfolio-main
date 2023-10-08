@@ -44,15 +44,32 @@ article div {
         flex-direction: row;
         align-items: center;
         justify-content: center;
+       
 }
 
  .group{
         display: flex;
-        flex: 3;
         margin: 10px;
         flex-direction: column;
-        justify-content: space-evenly; 
+        justify-content: space-evenly;
+                
 }
+
+.abstract{
+  height: 230px;
+  width: 160px;
+    }
+
+.spiral{
+  height: 200px;
+  width: 150px;
+}
+
+.melt{
+  height: 200px;
+  width: 150px;
+}
+
 /* Paragraphs */
 p {
   line-height: 1.5;
